@@ -28,12 +28,14 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/font-awesome/scss/font-awesome.scss",
               "src/assets/scss/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.css",
               "node_modules/bootstrap/scss/bootstrap.scss"
               
             ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },

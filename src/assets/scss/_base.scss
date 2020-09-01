@@ -1,0 +1,33 @@
+// fonts
+
+$popins_fonts: 'Poppins', sans-serif;
+
+
+// colors
+$text-color: #777777;
+
+$hover-color: #ed3974;
+
+// Gray Background
+$bg-gray: #f2f4f5;
+
+// Primary Color
+$pri-color: #ed3974;
+
+// Border Color
+$border-color: #ebebeb;
+
+// Breakpoints for Responsiveness
+$breakpoint-1200-1499: 'only screen and (min-width:1200px) and (max-width:1499px)';
+
+$breakpoint-xl: 'only screen and (min-width:1200px)';
+
+$breakpoint-lg: 'only screen and (min-width:992px) and (max-width:1199px)';
+
+$breakpoint-md: 'only screen and (min-width:768px) and (max-width:991px)';
+
+$breakpoint-sm: 'only screen and (min-width:576px) and (max-width:767px)';
+
+$breakpoint-xs: 'only screen and (max-width:767px)';
+
+$breakpoint-xs-landscape: 'only screen and (min-width:480px) and (max-width:767px)';
